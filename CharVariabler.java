@@ -6,7 +6,9 @@ public class CharVariabler{
 
 		c1 = "\u00D8";	
 		c2 = "\u00F8";
-		c2 = c1 + " " + c2;
+		c3 = "\u03C0";
+		c2 = c1 + " " + c2 + " " + c3;
 			JOptionPane.showMessageDialog(null, c2);
+
 	}
 }

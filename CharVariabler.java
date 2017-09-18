@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-/*	Variabel Length, klippa och klistra ramsa från programsprok
+/*	Använder mig av char för att skriva unicod tecken
 	Benjamin Bylund
 	2017-09-18
 */
